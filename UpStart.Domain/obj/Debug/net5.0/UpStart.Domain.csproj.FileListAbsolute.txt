@@ -1,0 +1,15 @@
+D:\Projetos\UpStart\UpStart.Domain\obj\Debug\net5.0\UpStart.Domain.csproj.AssemblyReference.cache
+D:\Projetos\UpStart\UpStart.Domain\obj\Debug\net5.0\UpStart.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\UpStart\UpStart.Domain\obj\Debug\net5.0\UpStart.Domain.AssemblyInfoInputs.cache
+D:\Projetos\UpStart\UpStart.Domain\obj\Debug\net5.0\UpStart.Domain.AssemblyInfo.cs
+D:\Projetos\UpStart\UpStart.Domain\obj\Debug\net5.0\UpStart.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\UpStart\UpStart.Domain\bin\Debug\net5.0\UpStart.Domain.deps.json
+D:\Projetos\UpStart\UpStart.Domain\bin\Debug\net5.0\UpStart.Domain.dll
+D:\Projetos\UpStart\UpStart.Domain\bin\Debug\net5.0\ref\UpStart.Domain.dll
+D:\Projetos\UpStart\UpStart.Domain\bin\Debug\net5.0\UpStart.Domain.pdb
+D:\Projetos\UpStart\UpStart.Domain\bin\Debug\net5.0\UpStart.CrossCutting.dll
+D:\Projetos\UpStart\UpStart.Domain\bin\Debug\net5.0\UpStart.CrossCutting.pdb
+D:\Projetos\UpStart\UpStart.Domain\obj\Debug\net5.0\UpStart.Domain.csproj.CopyComplete
+D:\Projetos\UpStart\UpStart.Domain\obj\Debug\net5.0\UpStart.Domain.dll
+D:\Projetos\UpStart\UpStart.Domain\obj\Debug\net5.0\ref\UpStart.Domain.dll
+D:\Projetos\UpStart\UpStart.Domain\obj\Debug\net5.0\UpStart.Domain.pdb

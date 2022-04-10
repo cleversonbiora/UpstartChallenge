@@ -1,0 +1,12 @@
+D:\Projetos\UpStart\UpStart.CrossCutting\bin\Debug\net5.0\UpStart.CrossCutting.deps.json
+D:\Projetos\UpStart\UpStart.CrossCutting\bin\Debug\net5.0\UpStart.CrossCutting.dll
+D:\Projetos\UpStart\UpStart.CrossCutting\bin\Debug\net5.0\ref\UpStart.CrossCutting.dll
+D:\Projetos\UpStart\UpStart.CrossCutting\bin\Debug\net5.0\UpStart.CrossCutting.pdb
+D:\Projetos\UpStart\UpStart.CrossCutting\obj\Debug\net5.0\UpStart.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\UpStart\UpStart.CrossCutting\obj\Debug\net5.0\UpStart.CrossCutting.AssemblyInfoInputs.cache
+D:\Projetos\UpStart\UpStart.CrossCutting\obj\Debug\net5.0\UpStart.CrossCutting.AssemblyInfo.cs
+D:\Projetos\UpStart\UpStart.CrossCutting\obj\Debug\net5.0\UpStart.CrossCutting.csproj.CoreCompileInputs.cache
+D:\Projetos\UpStart\UpStart.CrossCutting\obj\Debug\net5.0\UpStart.CrossCutting.dll
+D:\Projetos\UpStart\UpStart.CrossCutting\obj\Debug\net5.0\ref\UpStart.CrossCutting.dll
+D:\Projetos\UpStart\UpStart.CrossCutting\obj\Debug\net5.0\UpStart.CrossCutting.pdb
+D:\Projetos\UpStart\UpStart.CrossCutting\obj\Debug\net5.0\UpStart.CrossCutting.csproj.AssemblyReference.cache

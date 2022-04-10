@@ -1,0 +1,17 @@
+D:\Projetos\UpStart\UpStart.Application.Service\obj\Debug\net5.0\UpStart.Application.Service.csproj.AssemblyReference.cache
+D:\Projetos\UpStart\UpStart.Application.Service\obj\Debug\net5.0\UpStart.Application.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\UpStart\UpStart.Application.Service\obj\Debug\net5.0\UpStart.Application.Service.AssemblyInfoInputs.cache
+D:\Projetos\UpStart\UpStart.Application.Service\obj\Debug\net5.0\UpStart.Application.Service.AssemblyInfo.cs
+D:\Projetos\UpStart\UpStart.Application.Service\obj\Debug\net5.0\UpStart.Application.Service.csproj.CoreCompileInputs.cache
+D:\Projetos\UpStart\UpStart.Application.Service\bin\Debug\net5.0\UpStart.Application.Service.deps.json
+D:\Projetos\UpStart\UpStart.Application.Service\bin\Debug\net5.0\UpStart.Application.Service.dll
+D:\Projetos\UpStart\UpStart.Application.Service\bin\Debug\net5.0\ref\UpStart.Application.Service.dll
+D:\Projetos\UpStart\UpStart.Application.Service\bin\Debug\net5.0\UpStart.Application.Service.pdb
+D:\Projetos\UpStart\UpStart.Application.Service\bin\Debug\net5.0\UpStart.CrossCutting.dll
+D:\Projetos\UpStart\UpStart.Application.Service\bin\Debug\net5.0\UpStart.Domain.dll
+D:\Projetos\UpStart\UpStart.Application.Service\bin\Debug\net5.0\UpStart.Domain.pdb
+D:\Projetos\UpStart\UpStart.Application.Service\bin\Debug\net5.0\UpStart.CrossCutting.pdb
+D:\Projetos\UpStart\UpStart.Application.Service\obj\Debug\net5.0\UpStart.Application.Service.csproj.CopyComplete
+D:\Projetos\UpStart\UpStart.Application.Service\obj\Debug\net5.0\UpStart.Application.Service.dll
+D:\Projetos\UpStart\UpStart.Application.Service\obj\Debug\net5.0\ref\UpStart.Application.Service.dll
+D:\Projetos\UpStart\UpStart.Application.Service\obj\Debug\net5.0\UpStart.Application.Service.pdb

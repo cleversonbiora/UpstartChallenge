@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Configurations>Debug;Release;Production;Staging</Configurations>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.95.4" />
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.2" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="10.3.0" />
+    <PackageReference Include="GoogleAuthenticator" Version="2.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Scrypt.NET" Version="1.3.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.12.0" />
+    <PackageReference Include="System.IO.Abstractions" Version="13.2.43" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UpStart.Domain\UpStart.Domain.csproj" />
+    <ProjectReference Include="..\UpStart.CrossCutting\UpStart.CrossCutting.csproj" />
+  </ItemGroup>
+
+</Project>

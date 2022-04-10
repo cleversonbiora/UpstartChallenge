@@ -1,0 +1,53 @@
+.swagger-ui .topbar {
+    background: #002e5e !important;
+}
+
+#select_document {
+    background: #666 !important;
+}
+
+.logo__title {
+    display: none !important;
+}
+
+#api_info a {
+    color: #007bff !important;
+    text-decoration: none !important;
+}
+
+#api_info a:hover,
+#api_info a:focus,
+#api_info a:active {
+    color: #0056b3 !important;
+    text-decoration: underline !important;
+}
+.topbar-wrapper img {
+    display: block;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    background-size: 180px 44px !important;
+    background: url(https://ybera.paris/wp-content/uploads/2020/07/logo.png) no-repeat;
+    width: 80px; /* Width of new image */
+    height: 56px; /* Height of new image */
+    padding-left: 180px; /* Equal to width of new image */
+    margin-top: 10px;
+}
+
+.topbar-wrapper span {
+    display:none !important;
+}
+.swagger-section #header {
+    height: 52px !important;
+}
+
+.swagger-section #api_selector .input {
+    margin-top: 2% !important;
+}
+
+.swagger-section #auth_container {
+    width: 48px !important;
+}
+
+.swagger-section #header #logo .logo__img {
+    margin-top: 1% !important;
+}

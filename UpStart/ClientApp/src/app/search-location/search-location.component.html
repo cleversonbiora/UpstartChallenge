@@ -1,0 +1,57 @@
+<h1 id="tableLabel">Search Location</h1>
+
+<ngui-auto-complete
+  (valueSelected)="getForecast($event)"
+  [accept-user-input]="true"
+  [source]="locationApi"
+  display-property-name="matchedAddress"
+  [list-formatter]="myListFormatter"
+  loading-text="Searching..."
+  max-num-list="5"
+  min-chars="2"
+  no-match-found-text="No Match Found"
+  path-to-data="data"
+  placeholder="Enter Address"
+  class="form-control"
+></ngui-auto-complete>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="forecasts">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Temp.</th>
+      <th>Summary</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let forecast of forecasts">
+      <td>{{ forecast.name }}</td>
+      <td>{{ forecast.temperature }}{{ forecast.temperatureUnit }}</td>
+      <td>{{ forecast.shortForecast }}</td>
+      <td><button  (click)="openDetails(forecast)" class="btn btn-default">Details</button></td>
+    </tr>
+  </tbody>
+</table>
+
+<div *ngIf="showModal" class="modal fade show" tabindex="-1" style="display: block;">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Details</h5>
+        <button type="button" class="close" data-dismiss="modal" (click)="closeDetails()" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>{{forecast.name}}</p>
+        <p>Temperature: {{ forecast.temperature }}º {{ forecast.temperatureUnit }}</p>
+        <p>Wind: {{ forecast.windDirection }} {{ forecast.windSpeed }}</p>
+        <p>Addrees: {{forecast.detailedForecast}}</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" (click)="closeDetails()" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<div *ngIf="showModal" class="modal-backdrop fade show"></div>
